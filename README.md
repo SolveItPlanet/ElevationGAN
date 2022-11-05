@@ -27,7 +27,7 @@ A Machine Learning model which can produce elevation data (create a terrain map)
 ## Downloading Tensorboard Logs
 *Tensorboard will not output loss when running on TPU because storage buckets are not currently supported*
 
-### On Windows 10 *(Will probably work on windows 11)
+### On Windows 10 *(Will probably work on windows 11)*
 1. Download .zip file which is automatically created
 2. Extract .zip file in desired location
 3. Open command line
